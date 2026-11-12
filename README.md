@@ -1,6 +1,6 @@
 # EternalDarkness2Blender2EternalDarkness
 
-A Blender add-on for **Eternal Darkness: Sanity's Requiem** (GameCube, PAL). It imports the game's models, animations and room files into Blender, and exports edited models and textures back into the game's `.bin` format.
+A Blender add-on for **Eternal Darkness: Sanity's Requiem**. It imports the game's models, animations and room files into Blender, and exports edited models and textures back into the game's `.bin` format.
 
 > You need your own copy of the game files. This add-on does not include any game data.
 
